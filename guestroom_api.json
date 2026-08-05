@@ -1,28 +1,29 @@
 {
   "success": true,
   "restaurant": "גסט רום",
-  "last_updated": "2026-08-05T07:31:06.928132",
+  "last_updated": "2026-08-05T17:40:05.112673",
   "source": "beeport_shiftorganizer_direct",
   "current_month": {
     "month": "2026-08",
-    "total_sales_vat": 14899,
-    "total_sales_net": 12626,
+    "total_sales_vat": 12992.43,
+    "total_sales_net": 11011,
+    "embedded_card_tips_excluded": 1906.57,
     "diners": 153,
     "order_count": 80,
     "days_collected": 3,
-    "avg_per_diner": 97,
+    "avg_per_diner": 85,
     "daily_sales": [
       {
+        "date": "2026-07-31",
+        "amount": 1430.39
+      },
+      {
         "date": "2026-08-01",
-        "amount": 0
+        "amount": 4138.73
       },
       {
         "date": "2026-08-03",
-        "amount": 0
-      },
-      {
-        "date": "2026-08-04",
-        "amount": 0
+        "amount": 7423.31
       }
     ],
     "sold_items": [
@@ -513,115 +514,116 @@
       }
     ],
     "sold_items_total": 97,
-    "labor_cost": 1451.61,
-    "labor_pct": 11.5,
-    "employer_cost": 1451.61,
-    "cash_tips": 0
+    "labor_cost": 2558.36,
+    "labor_pct": 23.2,
+    "employer_cost": 4155.36,
+    "cash_tips": 1597.0
   },
   "last_month": {
     "month": "2026-07",
-    "total_sales_vat": 132357,
-    "total_sales_net": 112167,
+    "total_sales_vat": 115400.5,
+    "total_sales_net": 97797,
+    "embedded_card_tips_excluded": 16956.5,
     "diners": 1288,
     "order_count": 667,
     "days_collected": 24,
-    "avg_per_diner": 103,
+    "avg_per_diner": 90,
     "daily_sales": [
       {
+        "date": "2026-06-30",
+        "amount": 3533.63
+      },
+      {
         "date": "2026-07-02",
-        "amount": 0
+        "amount": 8872.75
       },
       {
         "date": "2026-07-03",
-        "amount": 0
+        "amount": 856.71
       },
       {
         "date": "2026-07-04",
-        "amount": 0
+        "amount": 4037.26
       },
       {
         "date": "2026-07-05",
-        "amount": 0
+        "amount": 7507.93
       },
       {
         "date": "2026-07-07",
-        "amount": 0
+        "amount": 6102.75
       },
       {
         "date": "2026-07-09",
-        "amount": 0
+        "amount": 6190.25
       },
       {
         "date": "2026-07-11",
-        "amount": 0
+        "amount": 7346.97
       },
       {
         "date": "2026-07-13",
-        "amount": 0
+        "amount": 6362.05
       },
       {
         "date": "2026-07-14",
-        "amount": 0
+        "amount": 2128.71
       },
       {
         "date": "2026-07-15",
-        "amount": 0
+        "amount": 6553.86
       },
       {
         "date": "2026-07-16",
-        "amount": 0
+        "amount": 2370.75
       },
       {
         "date": "2026-07-17",
-        "amount": 0
+        "amount": 1734.3
       },
       {
         "date": "2026-07-18",
-        "amount": 0
+        "amount": 1032.04
       },
       {
         "date": "2026-07-19",
-        "amount": 0
+        "amount": 4549.19
       },
       {
         "date": "2026-07-20",
-        "amount": 0
+        "amount": 6127.01
       },
       {
         "date": "2026-07-22",
-        "amount": 0
+        "amount": 4381.71
       },
       {
         "date": "2026-07-23",
-        "amount": 0
+        "amount": 4788.05
       },
       {
         "date": "2026-07-24",
-        "amount": 0
+        "amount": 3550.61
       },
       {
         "date": "2026-07-25",
-        "amount": 0
+        "amount": 3328.45
       },
       {
         "date": "2026-07-27",
-        "amount": 0
+        "amount": 10022.75
       },
       {
         "date": "2026-07-28",
-        "amount": 0
+        "amount": 3583.93
       },
       {
         "date": "2026-07-29",
-        "amount": 0
+        "amount": 5018.1
       },
       {
         "date": "2026-07-30",
-        "amount": 0
-      },
-      {
-        "date": "2026-07-31",
-        "amount": 0
+        "amount": 5420.74
       }
     ],
     "sold_items": [
@@ -1663,7 +1665,7 @@
     ],
     "sold_items_total": 207,
     "labor_cost": 27412.16,
-    "labor_pct": 24.4,
+    "labor_pct": 28.0,
     "employer_cost": 46726.16,
     "cash_tips": 19314.0
   }
