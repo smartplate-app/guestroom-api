@@ -1,7 +1,7 @@
 {
   "success": true,
   "restaurant": "גסט רום",
-  "last_updated": "2026-08-05T17:40:05.112673",
+  "last_updated": "2026-08-05T17:42:19.872916",
   "source": "beeport_shiftorganizer_direct",
   "current_month": {
     "month": "2026-08",
@@ -14,16 +14,16 @@
     "avg_per_diner": 85,
     "daily_sales": [
       {
-        "date": "2026-07-31",
+        "date": "2026-08-01",
         "amount": 1430.39
       },
       {
-        "date": "2026-08-01",
-        "amount": 4138.73
+        "date": "2026-08-03",
+        "amount": 7730.63
       },
       {
-        "date": "2026-08-03",
-        "amount": 7423.31
+        "date": "2026-08-04",
+        "amount": 3831.41
       }
     ],
     "sold_items": [
@@ -530,99 +530,99 @@
     "avg_per_diner": 90,
     "daily_sales": [
       {
-        "date": "2026-06-30",
-        "amount": 3533.63
-      },
-      {
         "date": "2026-07-02",
-        "amount": 8872.75
+        "amount": 9266.57
       },
       {
         "date": "2026-07-03",
-        "amount": 856.71
+        "amount": 3139.81
       },
       {
         "date": "2026-07-04",
-        "amount": 4037.26
+        "amount": 856.71
       },
       {
         "date": "2026-07-05",
-        "amount": 7507.93
+        "amount": 4037.26
       },
       {
         "date": "2026-07-07",
-        "amount": 6102.75
+        "amount": 10311.13
       },
       {
         "date": "2026-07-09",
-        "amount": 6190.25
+        "amount": 7050.7
       },
       {
         "date": "2026-07-11",
-        "amount": 7346.97
+        "amount": 4699.49
       },
       {
         "date": "2026-07-13",
-        "amount": 6362.05
+        "amount": 7431.33
       },
       {
         "date": "2026-07-14",
-        "amount": 2128.71
+        "amount": 4017.3
       },
       {
         "date": "2026-07-15",
-        "amount": 6553.86
+        "amount": 2128.71
       },
       {
         "date": "2026-07-16",
-        "amount": 2370.75
+        "amount": 6553.86
       },
       {
         "date": "2026-07-17",
-        "amount": 1734.3
+        "amount": 2370.75
       },
       {
         "date": "2026-07-18",
-        "amount": 1032.04
+        "amount": 1734.3
       },
       {
         "date": "2026-07-19",
-        "amount": 4549.19
+        "amount": 1032.04
       },
       {
         "date": "2026-07-20",
-        "amount": 6127.01
+        "amount": 4549.19
       },
       {
         "date": "2026-07-22",
-        "amount": 4381.71
+        "amount": 6127.01
       },
       {
         "date": "2026-07-23",
-        "amount": 4788.05
+        "amount": 4381.71
       },
       {
         "date": "2026-07-24",
-        "amount": 3550.61
+        "amount": 6005.4
       },
       {
         "date": "2026-07-25",
-        "amount": 3328.45
+        "amount": 2333.26
       },
       {
         "date": "2026-07-27",
-        "amount": 10022.75
+        "amount": 10064.49
       },
       {
         "date": "2026-07-28",
-        "amount": 3583.93
+        "amount": 3286.71
       },
       {
         "date": "2026-07-29",
-        "amount": 5018.1
+        "amount": 3583.93
       },
       {
         "date": "2026-07-30",
+        "amount": 5018.1
+      },
+      {
+        "date": "2026-07-31",
         "amount": 5420.74
       }
     ],
