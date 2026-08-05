@@ -1,37 +1,37 @@
 {
   "success": true,
   "restaurant": "גסט רום",
-  "last_updated": "2026-08-05T17:43:48.264860",
+  "last_updated": "2026-08-05T17:50:32.022443",
   "source": "beeport_shiftorganizer_direct",
   "current_month": {
     "month": "2026-08",
-    "total_sales_vat": 14402.04,
-    "total_sales_net": 12205,
-    "embedded_card_tips_excluded": 2107.96,
+    "total_sales_vat": 16510,
+    "total_sales_net": 13992,
+    "reference_card_tips_info_only": 2107.96,
     "diners": 172,
     "order_count": 91,
     "days_collected": 5,
-    "avg_per_diner": 84,
+    "avg_per_diner": 96,
     "daily_sales": [
       {
         "date": "2026-07-31",
-        "amount": 1409.61
+        "amount": 1611
       },
       {
         "date": "2026-08-01",
-        "amount": 1430.39
+        "amount": 1640
       },
       {
         "date": "2026-08-02",
-        "amount": 4138.73
+        "amount": 4722
       },
       {
         "date": "2026-08-03",
-        "amount": 3591.9
+        "amount": 4197
       },
       {
         "date": "2026-08-04",
-        "amount": 3831.41
+        "amount": 4340
       }
     ],
     "sold_items": [
@@ -568,143 +568,143 @@
     ],
     "sold_items_total": 106,
     "labor_cost": 3526.1,
-    "labor_pct": 28.9,
+    "labor_pct": 25.2,
     "employer_cost": 5123.1,
     "cash_tips": 1597.0
   },
   "last_month": {
     "month": "2026-07",
-    "total_sales_vat": 111084.31,
-    "total_sales_net": 94139,
-    "embedded_card_tips_excluded": 15963.69,
+    "total_sales_vat": 127048,
+    "total_sales_net": 107668,
+    "reference_card_tips_info_only": 15963.69,
     "diners": 1241,
     "order_count": 639,
     "days_collected": 31,
-    "avg_per_diner": 90,
+    "avg_per_diner": 102,
     "daily_sales": [
       {
         "date": "2026-06-30",
-        "amount": 1104.55
+        "amount": 1343
       },
       {
         "date": "2026-07-01",
-        "amount": 3533.63
+        "amount": 4067
       },
       {
         "date": "2026-07-02",
-        "amount": 5732.94
+        "amount": 6635
       },
       {
         "date": "2026-07-03",
-        "amount": 3139.81
+        "amount": 3493
       },
       {
         "date": "2026-07-04",
-        "amount": 856.71
+        "amount": 975
       },
       {
         "date": "2026-07-05",
-        "amount": 4037.26
+        "amount": 4590
       },
       {
         "date": "2026-07-06",
-        "amount": 7507.93
+        "amount": 8602
       },
       {
         "date": "2026-07-07",
-        "amount": 2803.2
+        "amount": 3271
       },
       {
         "date": "2026-07-08",
-        "amount": 3299.55
+        "amount": 3985
       },
       {
         "date": "2026-07-09",
-        "amount": 3751.15
+        "amount": 4223
       },
       {
         "date": "2026-07-10",
-        "amount": 2439.1
+        "amount": 2678
       },
       {
         "date": "2026-07-11",
-        "amount": 2260.39
+        "amount": 2637
       },
       {
         "date": "2026-07-12",
-        "amount": 5086.58
+        "amount": 5893
       },
       {
         "date": "2026-07-13",
-        "amount": 2344.75
+        "amount": 2614
       },
       {
         "date": "2026-07-14",
-        "amount": 4017.3
+        "amount": 4407
       },
       {
         "date": "2026-07-15",
-        "amount": 2128.71
+        "amount": 2446
       },
       {
         "date": "2026-07-16",
-        "amount": 6553.86
+        "amount": 7484
       },
       {
         "date": "2026-07-17",
-        "amount": 2370.75
+        "amount": 2591
       },
       {
         "date": "2026-07-18",
-        "amount": 1734.3
+        "amount": 1970
       },
       {
         "date": "2026-07-19",
-        "amount": 1032.04
+        "amount": 1195
       },
       {
         "date": "2026-07-20",
-        "amount": 4549.19
+        "amount": 5255
       },
       {
         "date": "2026-07-21",
-        "amount": 6127.01
+        "amount": 7070
       },
       {
         "date": "2026-07-22",
-        "amount": 4381.71
+        "amount": 5006
       },
       {
         "date": "2026-07-23",
-        "amount": 4788.05
+        "amount": 5558
       },
       {
         "date": "2026-07-24",
-        "amount": 1217.35
+        "amount": 1365
       },
       {
         "date": "2026-07-25",
-        "amount": 2333.26
+        "amount": 2687
       },
       {
         "date": "2026-07-26",
-        "amount": 3328.45
+        "amount": 3730
       },
       {
         "date": "2026-07-27",
-        "amount": 6736.04
+        "amount": 7543
       },
       {
         "date": "2026-07-28",
-        "amount": 3286.71
+        "amount": 3830
       },
       {
         "date": "2026-07-29",
-        "amount": 3583.93
+        "amount": 4104
       },
       {
         "date": "2026-07-30",
-        "amount": 5018.1
+        "amount": 5801
       }
     ],
     "sold_items": [
@@ -1671,7 +1671,7 @@
     ],
     "sold_items_total": 192,
     "labor_cost": 27412.16,
-    "labor_pct": 29.1,
+    "labor_pct": 25.5,
     "employer_cost": 46726.16,
     "cash_tips": 19314.0
   }
