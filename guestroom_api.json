@@ -1,17 +1,17 @@
 {
   "success": true,
   "restaurant": "גסט רום",
-  "last_updated": "2026-08-07T07:31:10.696623",
+  "last_updated": "2026-08-08T07:31:10.518009",
   "source": "beeport_shiftorganizer_direct",
   "current_month": {
     "month": "2026-08",
-    "total_sales_vat": 30099,
-    "total_sales_net": 25508,
-    "reference_card_tips_info_only": 3842.09,
-    "diners": 295,
-    "order_count": 141,
-    "days_collected": 7,
-    "avg_per_diner": 102,
+    "total_sales_vat": 30340,
+    "total_sales_net": 25712,
+    "reference_card_tips_info_only": 3867.59,
+    "diners": 300,
+    "order_count": 145,
+    "days_collected": 8,
+    "avg_per_diner": 101,
     "daily_sales": [
       {
         "date": "2026-07-31",
@@ -40,6 +40,10 @@
       {
         "date": "2026-08-06",
         "amount": 6457
+      },
+      {
+        "date": "2026-08-07",
+        "amount": 241
       }
     ],
     "sold_items": [
@@ -79,6 +83,11 @@
         "sum": 813
       },
       {
+        "name": "ROYAL BERMUDA",
+        "quantity": 17,
+        "sum": 815.3
+      },
+      {
         "name": "LALALA",
         "quantity": 17,
         "sum": 773
@@ -92,11 +101,6 @@
         "name": "LAST WORD",
         "quantity": 15,
         "sum": 627.6
-      },
-      {
-        "name": "ROYAL BERMUDA",
-        "quantity": 15,
-        "sum": 699.3
       },
       {
         "name": "JUNGLE BIRD",
@@ -119,14 +123,14 @@
         "sum": 553
       },
       {
+        "name": "PENICILIN",
+        "quantity": 13,
+        "sum": 674.9
+      },
+      {
         "name": "NAKED & FAMOUS",
         "quantity": 12,
         "sum": 526.3
-      },
-      {
-        "name": "PENICILIN",
-        "quantity": 12,
-        "sum": 629
       },
       {
         "name": "BLOODY HELL",
@@ -594,6 +598,11 @@
         "sum": 0
       },
       {
+        "name": "JASMINE",
+        "quantity": 1,
+        "sum": 54
+      },
+      {
         "name": "MOSCOW MULE",
         "quantity": 1,
         "sum": 35
@@ -694,10 +703,10 @@
         "sum": 58
       }
     ],
-    "sold_items_total": 130,
-    "labor_cost": 4250.21,
-    "labor_pct": 16.7,
-    "employer_cost": 5847.21,
+    "sold_items_total": 131,
+    "labor_cost": 4796.15,
+    "labor_pct": 18.7,
+    "employer_cost": 6393.15,
     "cash_tips": 1597.0
   },
   "last_month": {
