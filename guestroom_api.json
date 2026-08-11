@@ -1,17 +1,17 @@
 {
   "success": true,
   "restaurant": "גסט רום",
-  "last_updated": "2026-08-10T07:31:12.117028",
+  "last_updated": "2026-08-11T07:31:25.185678",
   "source": "beeport_shiftorganizer_direct",
   "current_month": {
     "month": "2026-08",
-    "total_sales_vat": 35450,
-    "total_sales_net": 30042,
-    "reference_card_tips_info_only": 4460.83,
-    "diners": 351,
-    "order_count": 175,
-    "days_collected": 10,
-    "avg_per_diner": 101,
+    "total_sales_vat": 38616,
+    "total_sales_net": 32725,
+    "reference_card_tips_info_only": 4891.07,
+    "diners": 391,
+    "order_count": 194,
+    "days_collected": 12,
+    "avg_per_diner": 99,
     "daily_sales": [
       {
         "date": "2026-07-31",
@@ -52,18 +52,26 @@
       {
         "date": "2026-08-09",
         "amount": 2442
+      },
+      {
+        "date": "2026-08-10",
+        "amount": 2897
+      },
+      {
+        "date": "2026-08-11",
+        "amount": 269
       }
     ],
     "sold_items": [
       {
         "name": " קוקטייל 3",
-        "quantity": 52,
-        "sum": 2393.5
+        "quantity": 53,
+        "sum": 2451.5
       },
       {
         "name": "STAROPRAMEN",
-        "quantity": 46,
-        "sum": 997.2
+        "quantity": 48,
+        "sum": 1049.2
       },
       {
         "name": "צ. פינוק",
@@ -71,9 +79,14 @@
         "sum": 0
       },
       {
+        "name": "BLOODY HELL",
+        "quantity": 27,
+        "sum": 1168.6
+      },
+      {
         "name": "PLAYBOY",
-        "quantity": 26,
-        "sum": 935
+        "quantity": 27,
+        "sum": 993
       },
       {
         "name": "CLOVER CLUB",
@@ -82,8 +95,8 @@
       },
       {
         "name": "MARGARITA",
-        "quantity": 23,
-        "sum": 1246
+        "quantity": 24,
+        "sum": 1302
       },
       {
         "name": "GIN GIN MULE",
@@ -91,14 +104,24 @@
         "sum": 964
       },
       {
+        "name": "ROYAL BERMUDA",
+        "quantity": 21,
+        "sum": 1024.3
+      },
+      {
         "name": "LALALA",
         "quantity": 20,
         "sum": 924
       },
       {
-        "name": "ROYAL BERMUDA",
+        "name": "JUNGLE BIRD",
         "quantity": 19,
-        "sum": 931.3
+        "sum": 909.3
+      },
+      {
+        "name": "THE SEXPERT",
+        "quantity": 19,
+        "sum": 791
       },
       {
         "name": "NEGRONI",
@@ -106,24 +129,19 @@
         "sum": 868
       },
       {
-        "name": "THE SEXPERT",
-        "quantity": 18,
-        "sum": 756
-      },
-      {
-        "name": "JUNGLE BIRD",
-        "quantity": 17,
-        "sum": 802
-      },
-      {
-        "name": "BLOODY HELL",
-        "quantity": 17,
-        "sum": 726.6
-      },
-      {
         "name": "פיצה פפרוני",
-        "quantity": 16.5,
+        "quantity": 17.5,
         "sum": 881.6
+      },
+      {
+        "name": "NAKED & FAMOUS",
+        "quantity": 17,
+        "sum": 747.3
+      },
+      {
+        "name": "גולדסטאר",
+        "quantity": 15,
+        "sum": 364
       },
       {
         "name": "LAST WORD",
@@ -131,14 +149,19 @@
         "sum": 627.6
       },
       {
-        "name": "NAKED & FAMOUS",
+        "name": "LA PUNTA",
         "quantity": 14,
-        "sum": 642.3
+        "sum": 720
       },
       {
         "name": "CHINATOWN RICKEY",
         "quantity": 14,
         "sum": 476
+      },
+      {
+        "name": "CEREZA PICANTE",
+        "quantity": 14,
+        "sum": 700
       },
       {
         "name": "CHARLIE CHAPLIN",
@@ -149,16 +172,6 @@
         "name": "PENICILIN",
         "quantity": 13,
         "sum": 674.9
-      },
-      {
-        "name": "CEREZA PICANTE",
-        "quantity": 13,
-        "sum": 665
-      },
-      {
-        "name": "LA PUNTA",
-        "quantity": 12,
-        "sum": 604
       },
       {
         "name": "OLD MAID",
@@ -181,6 +194,16 @@
         "sum": 318.6
       },
       {
+        "name": "DR. GONZO",
+        "quantity": 9,
+        "sum": 399
+      },
+      {
+        "name": "CORPSE REVIVER 2",
+        "quantity": 9,
+        "sum": 483
+      },
+      {
         "name": "EAST SIDE",
         "quantity": 9,
         "sum": 431.8
@@ -191,14 +214,19 @@
         "sum": 110
       },
       {
+        "name": "פיצה מרגריטה",
+        "quantity": 9,
+        "sum": 464
+      },
+      {
         "name": "FOUR ROSES",
         "quantity": 8,
         "sum": 322
       },
       {
-        "name": "DR. GONZO",
+        "name": "AMARETTO SOUR",
         "quantity": 8,
-        "sum": 343
+        "sum": 432
       },
       {
         "name": "SPARKLING",
@@ -206,9 +234,9 @@
         "sum": 39
       },
       {
-        "name": "פיצה מרגריטה",
+        "name": "תמרים 4 יח",
         "quantity": 8,
-        "sum": 406
+        "sum": 502
       },
       {
         "name": "CAIPIRINHA",
@@ -216,24 +244,14 @@
         "sum": 348
       },
       {
+        "name": "HEINEKEN",
+        "quantity": 7,
+        "sum": 169.4
+      },
+      {
         "name": "WINGMAN",
         "quantity": 7,
         "sum": 87.5
-      },
-      {
-        "name": "גולדסטאר",
-        "quantity": 7,
-        "sum": 140
-      },
-      {
-        "name": "AMARETTO SOUR",
-        "quantity": 7,
-        "sum": 378
-      },
-      {
-        "name": "CORPSE REVIVER 2",
-        "quantity": 7,
-        "sum": 371
       },
       {
         "name": "DAIQUIRI",
@@ -261,9 +279,19 @@
         "sum": 159.6
       },
       {
+        "name": "FERNET CHASER",
+        "quantity": 6,
+        "sum": 0
+      },
+      {
         "name": "TRINIDAD SOUR",
         "quantity": 6,
         "sum": 345
+      },
+      {
+        "name": "WAYCUP NEGRONI",
+        "quantity": 6,
+        "sum": 252
       },
       {
         "name": "19TH CENTURY",
@@ -274,6 +302,26 @@
         "name": "MANHATAN",
         "quantity": 6,
         "sum": 232
+      },
+      {
+        "name": "PERRIER 750",
+        "quantity": 6,
+        "sum": 143
+      },
+      {
+        "name": "AQUA PANNA",
+        "quantity": 6,
+        "sum": 156
+      },
+      {
+        "name": "CHARTREUSE COBBLER",
+        "quantity": 5,
+        "sum": 267
+      },
+      {
+        "name": "MAI TAI",
+        "quantity": 5,
+        "sum": 216
       },
       {
         "name": "NEW YORK SOUR",
@@ -291,29 +339,14 @@
         "sum": 213
       },
       {
-        "name": "PERRIER 750",
-        "quantity": 5,
-        "sum": 117
-      },
-      {
-        "name": "AQUA PANNA",
-        "quantity": 5,
-        "sum": 130
-      },
-      {
         "name": "CAMPARI CHASER",
         "quantity": 4,
         "sum": 0
       },
       {
-        "name": "CHARTREUSE COBBLER",
+        "name": "MOCKTAIL",
         "quantity": 4,
-        "sum": 209
-      },
-      {
-        "name": "MAI TAI",
-        "quantity": 4,
-        "sum": 162
+        "sum": 107
       },
       {
         "name": "CAIPIRIN'A",
@@ -341,14 +374,9 @@
         "sum": 32
       },
       {
-        "name": "תמרים 4 יח",
+        "name": "תמרים 2 יח",
         "quantity": 4,
-        "sum": 248
-      },
-      {
-        "name": "HEINEKEN",
-        "quantity": 3,
-        "sum": 65.8
+        "sum": 130.9
       },
       {
         "name": "BABY BEER",
@@ -359,16 +387,6 @@
         "name": "WHISKEY CHASER",
         "quantity": 3,
         "sum": 0
-      },
-      {
-        "name": "WAYCUP NEGRONI",
-        "quantity": 3,
-        "sum": 126
-      },
-      {
-        "name": "MOCKTAIL",
-        "quantity": 3,
-        "sum": 72
       },
       {
         "name": "ULTIMA PLABRA",
@@ -396,9 +414,19 @@
         "sum": 89
       },
       {
+        "name": "MOSCOW MULE",
+        "quantity": 3,
+        "sum": 143
+      },
+      {
         "name": "OLD FASHION",
         "quantity": 3,
         "sum": 143
+      },
+      {
+        "name": "GIN MARTINI",
+        "quantity": 3,
+        "sum": 128
       },
       {
         "name": "MEXICAN MAID",
@@ -421,9 +449,19 @@
         "sum": 128
       },
       {
+        "name": "tonic",
+        "quantity": 3,
+        "sum": 16
+      },
+      {
         "name": "OLD FASHIONED",
         "quantity": 3,
         "sum": 27
+      },
+      {
+        "name": "BEEFEATER",
+        "quantity": 3,
+        "sum": 88
       },
       {
         "name": "CUERVO TRADICIONAL",
@@ -461,6 +499,11 @@
         "sum": 70
       },
       {
+        "name": "ARMY AND NAVY",
+        "quantity": 2,
+        "sum": 56
+      },
+      {
         "name": "MEDICINA LATINA",
         "quantity": 2,
         "sum": 108
@@ -469,11 +512,6 @@
         "name": "BLOODY MARRY",
         "quantity": 2,
         "sum": 108
-      },
-      {
-        "name": "GIN MARTINI",
-        "quantity": 2,
-        "sum": 70
       },
       {
         "name": "FITZGERALD",
@@ -501,19 +539,9 @@
         "sum": 116
       },
       {
-        "name": "tonic",
+        "name": "VERGIN NEGRONI",
         "quantity": 2,
-        "sum": 8
-      },
-      {
-        "name": "BEEFEATER",
-        "quantity": 2,
-        "sum": 44
-      },
-      {
-        "name": "תמרים 2 יח",
-        "quantity": 2,
-        "sum": 62.9
+        "sum": 2
       },
       {
         "name": "טאקו דג 4",
@@ -566,11 +594,6 @@
         "sum": 29
       },
       {
-        "name": "FERNET CHASER",
-        "quantity": 1,
-        "sum": 0
-      },
-      {
         "name": "INDUSTRY SOUR",
         "quantity": 1,
         "sum": 35
@@ -596,11 +619,6 @@
         "sum": 35
       },
       {
-        "name": "ARMY AND NAVY",
-        "quantity": 1,
-        "sum": 56
-      },
-      {
         "name": "BACK IN BLACK",
         "quantity": 1,
         "sum": 54
@@ -609,6 +627,11 @@
         "name": "ZE TOMMY'S",
         "quantity": 1,
         "sum": 56
+      },
+      {
+        "name": "OLD PAL",
+        "quantity": 1,
+        "sum": 45.9
       },
       {
         "name": "ALMOND CRUSTA",
@@ -634,11 +657,6 @@
         "name": "JASMINE",
         "quantity": 1,
         "sum": 54
-      },
-      {
-        "name": "MOSCOW MULE",
-        "quantity": 1,
-        "sum": 35
       },
       {
         "name": " קוקטייל 2",
@@ -676,6 +694,16 @@
         "sum": 58
       },
       {
+        "name": "FRESA BRAVA",
+        "quantity": 1,
+        "sum": 58
+      },
+      {
+        "name": "GINGER NO 3",
+        "quantity": 1,
+        "sum": 0
+      },
+      {
         "name": "BLACK BARREL",
         "quantity": 1,
         "sum": 35
@@ -706,9 +734,9 @@
         "sum": 14
       },
       {
-        "name": "VERGIN NEGRONI",
+        "name": "טיפ יומי",
         "quantity": 1,
-        "sum": 1
+        "sum": 0
       },
       {
         "name": "PERRIER 330",
@@ -741,10 +769,10 @@
         "sum": 58
       }
     ],
-    "sold_items_total": 137,
-    "labor_cost": 5725.18,
-    "labor_pct": 19.1,
-    "employer_cost": 7322.18,
+    "sold_items_total": 141,
+    "labor_cost": 7190.88,
+    "labor_pct": 22.0,
+    "employer_cost": 8787.88,
     "cash_tips": 1597.0
   },
   "last_month": {
